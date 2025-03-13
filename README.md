@@ -1,5 +1,5 @@
 # Calculatrice Flutter
-Description
+## Description
 Cette application Flutter implémente une calculatrice de base avec des fonctionnalités telles que l'addition, la soustraction, la multiplication et la division. L'application met à jour l'affichage en temps réel, tout en permettant à l'utilisateur d'effectuer des calculs. Les calculs sont réalisés une fois que l'utilisateur appuie sur le bouton égal (=).
 
 Fonctionnalités
